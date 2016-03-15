@@ -1,0 +1,23 @@
+{
+  "name": "katafizz",
+  "version": "1.0.0",
+  "description": "katafizz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcarluer/katafizz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcarluer/katafizz/issues"
+  },
+  "homepage": "https://github.com/vcarluer/katafizz#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
